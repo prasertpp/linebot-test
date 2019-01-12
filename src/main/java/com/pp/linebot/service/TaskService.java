@@ -6,6 +6,10 @@ import org.springframework.stereotype.Service;
 public class TaskService {
 
 
+    public Object doService(){
+        return null;
+    }
+
 
 
 }
